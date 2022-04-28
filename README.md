@@ -19,7 +19,7 @@ WHEN I view the structure of the HTML elements
 THEN I find that the elements follow a logical structure independent of styling and positioning
 
 
-I refactored the major <div> tags to more appropriate labels. Not only did the main <h1> header get its own "header" tag, but I was also able to organize a <nav> tag to better organize the code block. The same format was given to the footer. <div> tags are still in use for child child elements, but the maisssn parent blocks have been relabeled <section>. This ultimately helped with creating id and class tags within CSS. 
+I refactored the major <div> tags to more appropriate labels. Not only did the main h1 header get its own "header" tag, but I was also able to organize a <nav> tag to better organize the code block. The same format was given to the footer. <div> tags are still in use for child child elements, but the maisssn parent blocks have been relabeled <section>. This ultimately helped with creating id and class tags within CSS. 
 
 
 WHEN I view the image elements
